@@ -8,7 +8,7 @@ Hi, im Aymo, a stupid developper, and a stupid breather, 🫁lore4ever
 - [x] HTML
 - [x] PHP (Learning)
 - [x] Python (Learning)
-- [x] Java (Not learning, but will sometime)
+- [ ] Java (Not learning anymore, but will sometime)
 - [ ] Lua
 - [ ] Swift
 - [x] NodeJS (not learning, but know a bit of stuff)
