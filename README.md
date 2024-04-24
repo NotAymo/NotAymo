@@ -2,7 +2,7 @@
 
 Hi, im Aymo, a stupid developper.
 
-- i died 5 times omg
+- i made stuff:tm:
 - checkout my [Twitter](https://twitter.com/NotAymo)
 # languages i know
 - [x] HTML
@@ -11,6 +11,5 @@ Hi, im Aymo, a stupid developper.
 - [x] Python (Learning)
 - [ ] Java (Not learning anymore, but will sometime)
 - [ ] Lua
-- [ ] Swift
-- [ ] NodeJS (not learning, but know a bit of stuff)
+- [x] Javascript
   
